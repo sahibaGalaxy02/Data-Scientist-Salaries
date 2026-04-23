@@ -1,7 +1,6 @@
 #📊 Data Scientist Salary Dashboard
 
 
-
 🔍 Overview
 This Power BI Dashboard provides an interactive analysis of Data Scientist salaries across different regions, experience levels, and industries. It helps users gain insights into salary trends, job market demand, and factors influencing compensation.
 
